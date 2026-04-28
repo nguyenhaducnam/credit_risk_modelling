@@ -1,4 +1,4 @@
-# Data files — credit risk datasets may contain PII; remove this line only if your data is safe to publish
+# Data files 
 *.xls
 *.parquet
 
