@@ -1,0 +1,57 @@
+# Data files — credit risk datasets may contain PII; remove this line only if your data is safe to publish
+*.xls
+*.parquet
+
+# Environment & secrets
+.env
+.env.*
+*.key
+secrets.json
+config.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+pip-log.txt
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Testing & coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ML artifacts
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+models/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.idea/
+*.swp
+*.swo
