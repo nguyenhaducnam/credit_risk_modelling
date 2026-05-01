@@ -86,7 +86,7 @@ The dataset contains borrower and loan attributes including:
 
 ```bash
 git clone https://github.com/nguyenhaducnam/credit_risk_modelling.git
-cd credit-risk-modelling
+cd credit_risk_modelling
 pip install -r requirements.txt
 jupyter notebook
 ```
